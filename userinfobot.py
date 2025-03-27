@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-from botapitamtam import BotHandler
+from maxbotapi import BotHandler
 import json
 
 config = 'config.json'
